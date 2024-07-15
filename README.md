@@ -1,2 +1,1 @@
-# python_projects
-creater= diksha subhedar
+This is basic snake game
